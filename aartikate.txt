@@ -1,0 +1,530 @@
+https://collegetimeblog.wordpress.com/
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://collegetimeblog.wordpress.com/xmlrpc.php">
+
+<title>collegetimeblog</title>
+<link rel="alternate" type="application/rss+xml" title="collegetimeblog &raquo; Feed" href="https://collegetimeblog.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="collegetimeblog &raquo; Comments Feed" href="https://collegetimeblog.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/_static/??-eJyFUO1OxCAQfCE5rPEa/xifBeie3SsLhAXrvb1Lq038CP4hO8PMzmT1mpSLoUAomqpKvr5iYL0mF0kxoYfbD3RyzHf6bxtXyy5jKhgFXaL3ce3p5/gGWdlqrQdxl5uHQ47B+ToJLYSeDM8oC/hEGH5LrqyL/C82vh9DL9fj0lxQknGL2lBPbiZJVdbkz0sceDehDrFs7Y6ht83FDMJTMqUpCCY04IFE1rNRGr9cbZyleTdmr2ptysCs5CWspMosQf/Uo1Zlv8p2/G9Ms77Q8/A4DvdPw8N4vn4ALn3ZbQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='motif-fonts-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C400italic%2C700%2C700italic%7CDroid+Sans%3A400%2C700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s1.wp.com/_static/??-eJyFjtEKwjAMRX/I2DnHwAfxW7qa1Yy2KW3m8O+t7GUq1pdwLzmHRC0RDAfBIMrPEN1sKWRlMWCisvgR9ybnndq4ckOPWcV5UJ6FRpXl4fA/RsGsKCzRsP8SNj+h54nWWcMCS7mgr54CDDrBva3RFhkcGy3E4a3A6DSlmppwcGxLtKpQm1qThDMkjJwERk7+s7/Uiz8fuv7YnNqm66cnBYmcEQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4' href='https://s0.wp.com/_static/??-eJx9TssOwjAM+yFCNCjjhPiWrCttUNtUTTd+n+0ACCF28kO2ZXwUsJKbyw3TBCVOnrMijYkzDFQxkTZXFwYyu1p5dPrx9lZ1h38mbGPJ68SbbcWLaINbJK6ogSpn/8KtloplihDFy7f4KbXg0nI9GPRRBopr4JounemPXX8+mNP9CSruY04=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9kFEKwjAMQC9kV9Q59UM8y1azkdmmtUkdenr7MRFHFQIh5JHkRU9BIRmbLsB6zHFLEB9zqkZe6X+AcjjEVqBySG/YeBIg0S6pYNOAxJpTxyZiEPS56r21flrieXTwLA6Y2wEKXec7tKASQ8wASb6q9wXu2wDpjlBathAFCa25qgiMTyh5c/go/n7YTJ3daV03zW6zPe4P4wtJVYVE'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://collegetimeblog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://collegetimeblog.wordpress.com/" />
+<link rel='shortlink' href='http://wp.me/P7GyLC-2' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fcollegetimeblog.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fcollegetimeblog.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="collegetimeblog" />
+<meta property="og:url" content="https://collegetimeblog.wordpress.com/" />
+<meta property="og:site_name" content="collegetimeblog" />
+<meta property="og:image" content="https://collegetimeblog.files.wordpress.com/2016/07/featured-image-2.jpg" />
+<meta property="og:image:width" content="665" />
+<meta property="og:image:height" content="356" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://collegetimeblog.files.wordpress.com/2016/07/featured-image-2.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Visit the post for more." />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://collegetimeblog.wordpress.com/osd.xml" title="collegetimeblog" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#f3f3f3" />
+<meta name="application-name" content="collegetimeblog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage collegetimeblog." /><meta name="msapplication-task" content="name=Edit page;action-uri=https://wordpress.com/page/collegetimeblog.wordpress.com/2;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/collegetimeblog.wordpress.com;icon-uri=https://s2.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://collegetimeblog.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://collegetimeblog.wordpress.com/wp-admin/media-new.php;icon-uri=https://s2.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://collegetimeblog.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s1.wp.com/i/icons/stats.ico" /><meta name="title" content="Home | collegetimeblog on WordPress.com" />
+<meta name="description" content="This is the home page&#039;s excerpt" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('https://motifdemo.wordpress.com/wp-content/themes/pub/motif/images/body-bg.png?m=1379773889h'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home page page-id-2 page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php logged-in admin-bar no-customize-support custom-background mp6 customizer-styles-applied not-multi-author display-header-text highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+
+		<div class="site-branding">
+			
+			
+			<h1 class="site-title"><a href="https://collegetimeblog.wordpress.com/" title="collegetimeblog" rel="home">collegetimeblog</a></h1>
+
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h1 class="menu-toggle">Menu</h1>
+			<div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+			<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://collegetimeblog.wordpress.com/">Home</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://collegetimeblog.wordpress.com/about/">About</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://collegetimeblog.wordpress.com/contact/">Contact</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://collegetimeblog.wordpress.com/blog/">Blog</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area front-page-content-area">
+					<div class="hero with-featured-image">
+
+								<figure class="hero-content">
+					<img width="1140" height="610" src="https://collegetimeblog.files.wordpress.com/2016/07/featured-image-2.jpg?w=1140&amp;h=610&amp;crop=1" class="attachment-motif-hero-thumbnail size-motif-hero-thumbnail wp-post-image" alt="Placeholder Image" />					<div class="hero-content-overlayer">
+						<div class="hero-container-outer">
+							<div class="hero-container-inner">
+								<article id="post-2" class="post-2 page type-page status-publish has-post-thumbnail hentry">
+									<header class="entry-header">
+										<h1 class="entry-title">Home</h1>
+									</header><!-- .entry-header -->
+
+									<div class="entry-content">
+										<p>Welcome to your new site!  You can edit this page by clicking on the Edit link.  For more information about customizing your site check out <a href="http://learn.wordpress.com/">http://learn.wordpress.com/</a></p>
+									</div><!-- .entry-content -->
+									<footer class="entry-meta"><span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/collegetimeblog.wordpress.com/2">Edit</a></span></footer>								</article><!-- #post-## -->
+							</div><!-- .hero-container-inner -->
+						</div><!-- .hero-container-outer -->
+					</div><!-- .hero-content-overlayer -->
+				</figure><!-- .hero-content -->
+
+				
+			</div>
+
+		
+	</div><!-- #primary -->
+
+	
+<div id="secondary" class="widget-area front-widget-area" role="complementary">
+		<div class="first front-widgets">
+		<aside id="text-2" class="widget widget_text"><h1 class="widget-title">Text Widget</h1>			<div class="textwidget">This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</aside>	</div><!-- .first -->
+	
+		<div class="second front-widgets">
+		<aside id="text-3" class="widget widget_text"><h1 class="widget-title">Text Widget</h1>			<div class="textwidget">This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</aside>	</div><!-- .second -->
+	</div><!-- #secondary -->
+
+	
+	
+
+<div id="tertiary" class="widget-area footer-widget-area" role="complementary">
+		<div class="first footer-widgets">
+		<aside id="widget_contact_info-1" class="widget widget_contact_info"><h1 class="widget-title">Contact Information</h1><iframe width="600" height="216" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=132+Hawthorne+StreetSan+Francisco%2C+CA+94107&#038;key=AIzaSyCq4vWNv6eCGe2uvhPRGWQlv80IQp8dwTE" class="contact-map"></iframe><div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=132+hawthorne+street+san+francisco,+ca+94107" target="_blank">132 Hawthorne Street
+<br/>San Francisco, CA 94107</a></div></aside>	</div><!-- .first -->
+	
+		<div class="second footer-widgets">
+		<aside id="text-1" class="widget widget_text"><h1 class="widget-title">About Motif</h1>			<div class="textwidget">Motif is a crisp, minimalist and fully responsive business theme. This means your site will look good not only on laptop browsers, but also on devices with smaller screens, such as the iPad and iPhone.</div>
+		</aside>	</div><!-- .second -->
+	
+		<div class="third footer-widgets">
+		<aside id="nav_menu-1" class="widget widget_nav_menu"><h1 class="widget-title">Navigation</h1><div class="menu-primary-container"><ul id="menu-primary-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://collegetimeblog.wordpress.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://collegetimeblog.wordpress.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://collegetimeblog.wordpress.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://collegetimeblog.wordpress.com/blog/">Blog</a></li>
+</ul></div></aside>	</div><!-- .third -->
+	</div><!-- #tertiary -->
+
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer">
+
+				<div id="footer-navbar" class="footer-navbar">
+			<nav id="secondary-navigation" class="subordinate-navigation" role="navigation">
+				<ul id="menu-primary-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://collegetimeblog.wordpress.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://collegetimeblog.wordpress.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://collegetimeblog.wordpress.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://collegetimeblog.wordpress.com/blog/">Blog</a></li>
+</ul>			</nav><!-- #secondary-navigation -->
+		</div><!-- #footer-navbar -->
+		
+		<div class="site-info"  role="contentinfo">
+						<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+			<span class="sep"> | </span>
+			<a href="https://wordpress.com/themes/motif/" title="Learn more about this theme">The Motif Theme</a>.		</div><!-- .site-info -->
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in <a target=\"_blank\" href=\"http:\/\/wordpress.com\/\">your reader<\/a>. You can manage email alerts from your <a target=\"_blank\" href=\"http:\/\/wordpress.com\/following\/edit\/\">subscriptions page<\/a>." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/collegetimeblog.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 113577776				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201626y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"0813175da03d74f905b4acd58f193722"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<div id="report-form-window" style="display:none;"></div><link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/widgets/contact-info/contact-info-map.css?m=1466730838h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpNotesArgs = {"cacheBuster":"20160329","iframeUrl":"https:\/\/widgets.wp.com\/notificationsbeta\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"2","current_url":"https:\/\/collegetimeblog.wordpress.com","report_this_content":"Report this content"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"113577776","siteName":"collegetimeblog","siteURL":"http:\/\/collegetimeblog.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/void.gif' class='avatar avatar-36' height='36' width='36' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/motif","themeURL":"https:\/\/wordpress.com\/themes\/motif\/","xhrURL":"https:\/\/collegetimeblog.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"236feecc4b","isSingular":"1","isFolded":"","customizeLink":"https:\/\/collegetimeblog.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fcollegetimeblog.wordpress.com%2F","postID":"2","shortlink":"http:\/\/wp.me\/P7GyLC-2","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/collegetimeblog.wordpress.com\/2","i18n":{"view":"View Site","follow":"Follow","following":"Following","edit":"Edit","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Motif","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage Sites I Follow","viewReader":"View Site in the Reader"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVktFWwyAMhl9Ihps76o3HZ6E0XUMLQQjtHl84utrO2s2bAsn3/4UkcvRCk2NwLE2UNQyowZ93Jj7InEKn+1RDLDluUXcVnafNBbrobRK+Tyd0UfbYZdFHggStcnUPYc1R1RadqFTY5XXDbeJyXpMVP7q/NZmzOSS+bmLKlSoZR/TwH9EicC3kFmzGfKqkJcamCJwa8KQY6dd71ujYoc/erhMN6RRFg1tFBUsGJY+L9SZvgL3SnbiPXlDzXiVXQ4iaAsybNScqVabCwVozc9qmyEq3W+V3xPD9FaXy5MRwuMlP07ANM0URwFPgXOxgr893jZ9VkSGUX9EAIWB5+RTbctBlIorDtMv0u33bH59fHp+Or/uD+QR1eFJH'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 107176289, 'collegetimeblog']);
+_tkq.push(['storeContext', {'blog_id':'113577776','blog_tz':'0','user_lang':'en','blog_lang':'en'}]);
+_stq.push(['view', {'blog':'113577776','v':'wpcom','tz':'0','user':'1','user_id':'107176289','post':'2','subd':'collegetimeblog'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdXIyfFgyfjVBN0lIeEpROGxdTnl0NVVYdlZWLU5pb2Nibld0QXA9Z002d0podEouaGR6Vjlmc2lteFM5d3RKZGZxJkZzfnU4bCVlMk9MLitqLzcmTm5ZVWx1VFU2VGQ/Zi9QX3w9VmQlQ1dNcmU3RkhHWGVGeWwsSC9xeTNEQkRtMHdQTXJzLU5UW1F4SFotan52anpKTm1banBMNFtHcEVVPy05NkpFWVpnXUhQNi0wbThlQmZ3NEVxcCw2X1VQfjlGaXRlc3Y4ZE16L1tbSVdhMXQtKzBmMFNmLkV8a11wN2NVTA=='}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+		<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="menupop my-sites"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/stats/collegetimeblog.wordpress.com">My Site</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-info" class="current-site">		<div class="ab-item ab-empty-item" ><div class="ab-site-icon"></div><span class="ab-site-title">collegetimeblog</span><span class="ab-site-description">collegetimeblog.wordpress.com</span></div>		</li>
+		<li id="wp-admin-bar-new-site"><a class="ab-item"  href="https://wordpress.com/start?ref=admin-bar-logged-in">+ Add New WordPress</a>		</li>
+		<li id="wp-admin-bar-blog-stats" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/stats/collegetimeblog.wordpress.com">Stats <img style="width: 95px; margin: 0; float: right;" src="https://collegetimeblog.wordpress.com/wp-includes/charts/admin-bar-hours-scale-2x.php?masterbar=1" alt="Stats" title="Showing site views per hour for the last 48 hours. Click for full Site Stats." /></a>		</li>
+		<li id="wp-admin-bar-plan" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/plans/collegetimeblog.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-plan">Plan</a><a href="https://wordpress.com/plans/collegetimeblog.wordpress.com" class="secondary" id="wp-admin-bar-plan-badge">Free</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-publish" class="ab-submenu">
+			
+		<li id="wp-admin-bar-publish-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Publish</div>		</li>
+		<li id="wp-admin-bar-new-post" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/posts/collegetimeblog.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-edit-post">Blog Posts</a><a href="https://wordpress.com/post/collegetimeblog.wordpress.com" class="secondary" id="wp-admin-bar-new-post">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-page" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/pages/collegetimeblog.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-edit-page">Pages</a><a href="https://wordpress.com/page/collegetimeblog.wordpress.com" class="secondary" id="wp-admin-bar-new-page">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-jetpack-testimonial" class="mb-icon"><a class="ab-item"  href="https://collegetimeblog.wordpress.com/wp-admin/edit.php?post_type=jetpack-testimonial">Testimonials</a>		</li>		</ul>
+			<ul id="wp-admin-bar-look-and-feel" class="ab-submenu">
+			
+		<li id="wp-admin-bar-look-and-feel-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Personalize</div>		</li>
+		<li id="wp-admin-bar-themes" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/design/collegetimeblog.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-themes">Themes</a><a href="https://collegetimeblog.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fcollegetimeblog.wordpress.com%2F" class="secondary" id="wp-admin-bar-cmz">Customize</a></div>		</li>
+		<li id="wp-admin-bar-menus" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/menus/collegetimeblog.wordpress.com">Menus</a>		</li>		</ul>
+			<ul id="wp-admin-bar-configuration" class="ab-submenu">
+			
+		<li id="wp-admin-bar-configuration-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Configure</div>		</li>
+		<li id="wp-admin-bar-sharing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/sharing/collegetimeblog.wordpress.com">Sharing</a>		</li>
+		<li id="wp-admin-bar-users-toolbar" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/people/team/collegetimeblog.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-people">People</a><a href="https://collegetimeblog.wordpress.com/wp-admin/users.php?page=wpcom-invite-users" class="secondary" id="wp-admin-bar-people-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-domains" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/domains/collegetimeblog.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-domains">Domains</a><a href="https://wordpress.com/domains/add/collegetimeblog.wordpress.com" class="secondary" id="wp-admin-bar-domains-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-blog-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/settings/general/collegetimeblog.wordpress.com">Settings</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="menupop"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/">Reader</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-newdash-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-streams-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Streams</div>		</li>
+		<li id="wp-admin-bar-following" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/" class="ab-item primary mb-icon" id="wp-admin-bar-followed-sites">Followed Sites</a><a href="https://wordpress.com/following/edit" class="secondary">Manage</a></div>		</li>
+		<li id="wp-admin-bar-discover-discover" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/discover">Discover</a>		</li>
+		<li id="wp-admin-bar-discover-recommended-blogs" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/recommendations">Recommendations</a>		</li>
+		<li id="wp-admin-bar-my-activity-my-likes" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/activities/likes">My Likes</a>		</li>		</ul>
+	</div>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notifications</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/me/"><img alt='' src='https://0.gravatar.com/avatar/0813175da03d74f905b4acd58f193722?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Me</span></a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+			
+		<li id="wp-admin-bar-user-info" class="user-info user-info-item">		<div class="ab-item ab-empty-item" tabindex="-1"><img alt='' src='https://0.gravatar.com/avatar/0813175da03d74f905b4acd58f193722?s=128&#038;d=mm&#038;r=G' class='avatar avatar-128' height='128' width='128' /><span class="display-name">collegetimeblog</span><a class="username" href="http://gravatar.com/collegetimeblog">@collegetimeblog</a><form action="https://collegetimeblog.wordpress.com/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwordpress.com%2F%3Fapppromo&amp;_wpnonce=92d2c5e324" method="post"><button class="ab-sign-out" type="submit">Sign Out</button></form></div>		</li>
+		<li id="wp-admin-bar-profile-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Profile</div>		</li>
+		<li id="wp-admin-bar-my-profile" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me">My Profile</a>		</li>
+		<li id="wp-admin-bar-account-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/account">Account Settings</a>		</li>
+		<li id="wp-admin-bar-billing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/billing">Billing History</a>		</li>
+		<li id="wp-admin-bar-security" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/security">Security</a>		</li>
+		<li id="wp-admin-bar-notifications" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/notifications">Notifications</a>		</li>
+		<li id="wp-admin-bar-special-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Special</div>		</li>
+		<li id="wp-admin-bar-get-apps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/get-apps">Get Apps</a>		</li>
+		<li id="wp-admin-bar-next-steps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/next">Next Steps</a>		</li>
+		<li id="wp-admin-bar-help" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/help">Help</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-ab-new-post"><a class="ab-item"  href="https://wordpress.com/post/collegetimeblog.wordpress.com"></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://collegetimeblog.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=92d2c5e324">Log Out</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
